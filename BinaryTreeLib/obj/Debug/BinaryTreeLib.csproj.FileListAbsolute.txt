@@ -1,0 +1,6 @@
+C:\dev\binaryTree\binaryTree\BinaryTreeLib\bin\Debug\BinaryTreeLib.dll
+C:\dev\binaryTree\binaryTree\BinaryTreeLib\bin\Debug\BinaryTreeLib.pdb
+C:\dev\binaryTree\binaryTree\BinaryTreeLib\obj\Debug\BinaryTreeLib.dll
+C:\dev\binaryTree\binaryTree\BinaryTreeLib\obj\Debug\BinaryTreeLib.pdb
+C:\dev\binaryTree\binaryTree\BinaryTreeLib\obj\Debug\BinaryTreeLib.csprojAssemblyReference.cache
+C:\dev\binaryTree\binaryTree\BinaryTreeLib\obj\Debug\BinaryTreeLib.csproj.CoreCompileInputs.cache

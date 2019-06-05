@@ -1,0 +1,15 @@
+C:\dev\binaryTree\binaryTree\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\dev\binaryTree\binaryTree\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\dev\binaryTree\binaryTree\ClassLibrary1\bin\Debug\Castle.Core.dll
+C:\dev\binaryTree\binaryTree\ClassLibrary1\bin\Debug\Moq.dll
+C:\dev\binaryTree\binaryTree\ClassLibrary1\bin\Debug\nunit.framework.dll
+C:\dev\binaryTree\binaryTree\ClassLibrary1\bin\Debug\Castle.Core.xml
+C:\dev\binaryTree\binaryTree\ClassLibrary1\bin\Debug\Moq.xml
+C:\dev\binaryTree\binaryTree\ClassLibrary1\bin\Debug\nunit.framework.xml
+C:\dev\binaryTree\binaryTree\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\dev\binaryTree\binaryTree\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\dev\binaryTree\binaryTree\ClassLibrary1\bin\Debug\BinaryTreeLib.dll
+C:\dev\binaryTree\binaryTree\ClassLibrary1\bin\Debug\BinaryTreeLib.pdb
+C:\dev\binaryTree\binaryTree\ClassLibrary1\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\dev\binaryTree\binaryTree\ClassLibrary1\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\dev\binaryTree\binaryTree\ClassLibrary1\obj\Debug\Tests.csproj.CopyComplete
